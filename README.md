@@ -15,3 +15,4 @@
 2. Bucket can have uniform policy for everything inside, or fine-grained using ACL per each object
 3. You can set bucket that requestor pays whenever wants to read from it
 4. Example of renaming object: gsutil mv -p gs://object1 gs://object2
+5. Classes: Standard, Nearline(for backup - 30 days), Coldline (90 days, Disaster recovery data), Archive (regulation archives, 1 year)
