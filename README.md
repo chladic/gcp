@@ -4,3 +4,8 @@
 3. Billing export is not real time with hours delay
 4. Budget can be set either to billing account or to project
 5. Controlling billing account for project has nothing to do with controlling project
+
+# Google cloud shell
+1. 5GB persistant storage
+2. Preinstalled tools, gcloud, kubectl, docker, vim ...
+3. Web preview of apps running 
