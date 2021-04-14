@@ -1,3 +1,11 @@
+# Gcloud console CLI
+1. gcloud auth list - show all auth profiles
+2. gcloud config configurations list - list all defined configurations
+3. gcloud config configurations activate chladic - activate chladic configuration
+4. gcloud config set account chladic@email.com - set chladic@gmail.com auth for active configuration
+5. gcloud config list - show properties of current active configuration
+6. gcloud config set project chladic - Set project for active configuration
+
 # Billing
 1. Billing account can cover multiple projects
 2. Billing export must be done per each billing account
