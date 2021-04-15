@@ -15,5 +15,6 @@
 4. Control-C in iterm2 does not work as cancel (workaround to )
 5. Randomly sometimes windows jumps from one virtual desktop to another and I have no idea why :)
 
-# Not known yet
-2. Randomly sometimes windows jumps from one virtual desktop to another and I have no idea why :)
+# Not working
+2. I cant access Printer Settings, getting error
+
