@@ -11,3 +11,9 @@
 # Things annoy me
 1. Keyboard layout Control,Win,Alt -> Control,Options,Command. I switched Options<->Command. Also in custom key binding I added Undo,Copy,Paste to standard Control+Z/C/V
 2. Logitec mouse I could connect via Blootooth. Macos has Mouse connector but only for Apple mouse. This BT mouse feels a bit laggy sometimes (I didnt use dongle as no USB port in MacBook Air)
+3. I got a feeling that in Apple store I never found anything I need
+4. Control-C in iterm2 does not work as cancel (workaround to )
+5. Randomly sometimes windows jumps from one virtual desktop to another and I have no idea why :)
+
+# Not known yet
+2. Randomly sometimes windows jumps from one virtual desktop to another and I have no idea why :)
