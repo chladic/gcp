@@ -13,6 +13,7 @@
 12. Photoshop and Lightroom are natively for M1 and works very fast
 13. Other Adobe SW works using Rosetta translator, we did tests with Ilustrator/Premiere and performance is same as they have it now
 14. LibreOffice 7.1 works well. No performance difference noticed by Brittany
+15. Docker works natively for ARM processor
 
 
 # Things annoy me
@@ -40,4 +41,4 @@
 
 # Advantages of Tuxedo
 1. Having much more inputs, M1 Air has only 2 USB-C
-2. F
+2. Customization of Linux, vario
