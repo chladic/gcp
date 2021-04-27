@@ -14,12 +14,13 @@
 13. Other Adobe SW works using Rosetta translator, we did tests with Ilustrator/Premiere and performance is same as they have it now
 14. LibreOffice 7.1 works well. No performance difference noticed by Brittany
 15. Docker works natively for ARM processor
+16. I tried Google Ads, many tabs, keep it running and it does not effect performance or memory consumption
 
 
 # Things annoy me
 1. Logitec mouse I could connect via Blootooth. Macos has Mouse connector but only for Apple mouse. This BT mouse feels a bit laggy sometimes (I didnt use dongle as no USB port in MacBook Air)
 2. I got a feeling that in Apple store I never found anything I need
-3. Randomly sometimes windows jumps from one virtual desktop to another and I have no idea why :)
+3. Randomly sometimes windows jumps from one virtual desktop to another and I have no idea why :) - solved
 4. Lot of customization for keys and shortcut needed for linux/windows user
 5. Animations you cant switch it off completely 
 
