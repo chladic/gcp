@@ -20,16 +20,16 @@
 # Things annoy me
 1. Logitec mouse I could connect via Blootooth. Macos has Mouse connector but only for Apple mouse. This BT mouse feels a bit laggy sometimes (I didnt use dongle as no USB port in MacBook Air)
 2. I got a feeling that in Apple store I never found anything I need
-3. Randomly sometimes windows jumps from one virtual desktop to another and I have no idea why :) - solved
+3. Randomly sometimes windows jumps from one virtual desktop to another and I have no idea why :) - this can be solved by settings
 4. Lot of customization for keys and shortcut needed for linux/windows user
 5. Animations you cant switch it off completely 
 
 # Not working and annoying things
-1. I cant access Printer Settings, getting error
-2. Check for update never finish
-3. When I enabled firewall whole PC frozed, I needed to restart
-4. Layout switching is buggy, sometimes works sometimes not
-5. When you reboot or logout keys remaping get back to default
+1. Printer didnt work at the beggining, but then out of nothing start working
+2. Check for updates was never finishing first one week of usage. Out of nothing was fine
+3. When I enabled firewall whole PC frozed, I needed to restart. Random behaviour.
+5. Layout switching is buggy, sometimes works sometimes not
+6. Sometimes key remaping after reboot got to previous state
 
 # Advantages over Tuxedo with linux
 1. Touchpad and Mouse gestures are fantastic
@@ -42,7 +42,9 @@
 
 # Advantages of Tuxedo
 1. Having much more inputs, M1 Air has only 2 USB-C
-2. Customization of Linux, vario
+2. Customization of Linux, various options how to addapt desktop to your needs
+3. Upgrades are much faster. In M1 it takes very long time, linux upgrades are very fast.
+
 
 # Keyboard hacks
 Put this to ~/Library/KeyBindings/DefaultKeyBinding.dict
