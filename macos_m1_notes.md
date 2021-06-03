@@ -25,11 +25,10 @@
 5. Animations you cant switch it off completely 
 
 # Not working and annoying things
-1. Printer didnt work at the beggining, but then out of nothing start working
-2. Check for updates was never finishing first one week of usage. Out of nothing was fine
-3. When I enabled firewall whole PC frozed, I needed to restart. Random behaviour.
-5. Layout switching is buggy, sometimes works sometimes not
-6. Sometimes key remaping after reboot got to previous state
+1. Check for updates was never finishing first one week of usage. Out of nothing was fine
+2. When I enabled firewall whole PC frozed, I needed to restart. Random behaviour.
+3. Layout switching is buggy, sometimes works sometimes not
+4. Sometimes key remaping after reboot got to previous state
 
 # Advantages over Tuxedo with linux
 1. Touchpad and Mouse gestures are fantastic
