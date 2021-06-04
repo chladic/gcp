@@ -44,8 +44,8 @@
 2. Customization of Linux, various options how to addapt desktop to your needs
 3. Upgrades are much faster. In M1 it takes very long time, linux upgrades are very fast.
 
-
-# Keyboard hacks
+# Useful Tricks
+## Keyboard hacks
 Put this to ~/Library/KeyBindings/DefaultKeyBinding.dict
 ```
 {
@@ -59,4 +59,25 @@ Put this to ~/Library/KeyBindings/DefaultKeyBinding.dict
   "^$\UF72B" = moveToEndOfDocumentAndModifySelection:; // ctrl-shift-end
   "^v" = noop:; // cancel ctrl+v to do pg-down
 }
+```
+
+## Terraform tricks
+### FIX not able to connect via SSH to ec2 when created 
+This one is because we need to specify in `~/.ssh/config` the parameter: `AddKeysToAgent yes`    as for example:
+
+```
+Host eatcobra.medojed.info
+  Port 42335
+  User admin
+  StrictHostKeyChecking no
+  IdentityFile ~/.ssh/wiki_rsa
+  AddKeysToAgent yes
+
+Host 10.*
+  ProxyCommand ssh -W %h:%p eatcobra.medojed.info
+  StrictHostKeyChecking no
+  IdentityFile ~/.ssh/wiki_rsa
+  AddKeysToAgent yes
+ 
+
 ```
